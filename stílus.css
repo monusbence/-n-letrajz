@@ -1,3 +1,24 @@
 body {
     background-image: url("Images/mylife2.jpg");
 }
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h2, h3 {
+    font-size:x-large;
+}
+
+.driftstílus {
+    color: maroon;
+
+}
+#horgászat {
+    color: navy;
+}
+.Kirándulásstílus {
+    color: green;
+}
+#bek1 {
+  text-align: center;  
+  color: chartreuse;
+}
